@@ -1,0 +1,26 @@
+{
+  "name": "mean-stack-team",
+  "version": "1.0.0",
+  "description": "mean stack application allowing you to keep track of employees and they're associated teams",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.1.2",
+    "colors": "^1.1.2",
+    "mongoose": "^4.6.7",
+    "mongoose-post-find": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nudiaver93/MEAN-Stack-Team.git"
+  },
+  "author": "Navin Udiaver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nudiaver93/MEAN-Stack-Team/issues"
+  },
+  "homepage": "https://github.com/nudiaver93/MEAN-Stack-Team#readme"
+}
